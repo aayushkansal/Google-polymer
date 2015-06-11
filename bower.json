@@ -1,0 +1,21 @@
+{
+  "name": "Polymer",
+  "version": "0.0.0",
+  "homepage": "https://github.com/aayushkansal/Google-polymer",
+  "authors": [
+    "CoMpLeMbAbA <aayush.kansal@gmail.com>"
+  ],
+  "description": "Experiment",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5"
+  }
+}
